@@ -1,0 +1,53 @@
+/* select.php */
+/* body部分 */
+body{
+    background-color: #FFF5EE;
+}
+/* header部分 */
+.select_p{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 52px;
+    text-decoration: underline;
+}
+/* table部分 */
+table{
+    margin: 0 10%;
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+    border: solid 1px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #FFFFDD;
+}
+td{
+    padding: 10px;
+    border: solid 1px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 32px;
+    background-color: #E6FFE9;
+}
+.select_td1{
+    text-align: center;
+}
+.select_td2{
+    text-align: left;
+}
+.select_id{
+    text-decoration: none;
+}
+/* footer部分 */
+.select_a1{
+    text-align: center;
+    padding: 52px;
+}
+.select_a2{
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
