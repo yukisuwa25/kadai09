@@ -1,0 +1,19 @@
+/* menu.php */
+body{
+    background-color: #FFF5EE;
+}
+p{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 52px;
+    text-align: center;
+}
+div{
+    padding: 52px;
+    text-align: center;
+}
+a{
+    font-weight: bold;
+    margin-right: 24px;
+    text-decoration: none;
+}

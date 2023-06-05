@@ -9,12 +9,17 @@ body{
     font-size: 24px;
     font-weight: bold;
     margin: 52px;
-    text-decoration: underline;
+}
+.select_p1{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
 }
 /* table部分 */
 table{
-    margin: 0 10%;
+    margin: 0 5%;
     border-collapse: collapse;
+    margin-bottom: 52px;
 }
 th{
     padding: 10px;
@@ -43,11 +48,11 @@ td{
 }
 /* footer部分 */
 .select_a1{
-    text-align: center;
     padding: 52px;
+    text-align: center;
 }
 .select_a2{
-    font-size: 24px;
     font-weight: bold;
+    margin-right: 24px;
     text-decoration: none;
 }
